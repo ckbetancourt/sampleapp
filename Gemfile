@@ -28,6 +28,7 @@ gem 'turbolinks'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
+gem 'devise', '~> 3.1.1' #this is the latest version and has been updated since the video
 
 group :development, :test do
      gem 'sqlite3'
